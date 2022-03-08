@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://sostine-portfolio.netlify.app/static/media/profile.0f3d9165419852d0d636.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Sostine.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
